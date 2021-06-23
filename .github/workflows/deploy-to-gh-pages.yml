@@ -19,7 +19,7 @@ jobs:
           wget $(cat dl) -O dl.zip
           unzip dl.zip
           curl https://raw.githubusercontent.com/jayanta525/apindex-v2/master/sudo-install.sh | bash
-          apindex Pictures/.
+          apindex armv8/.
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.3
