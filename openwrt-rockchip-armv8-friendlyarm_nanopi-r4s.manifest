@@ -21,6 +21,9 @@ kmod-ipt-core - 5.10.43-1
 kmod-ipt-nat - 5.10.43-1
 kmod-ipt-offload - 5.10.43-1
 kmod-lib-crc-ccitt - 5.10.43-1
+kmod-libphy - 5.10.43-1
+kmod-mdio-devres - 5.10.43-1
+kmod-mii - 5.10.43-1
 kmod-nf-conntrack - 5.10.43-1
 kmod-nf-conntrack6 - 5.10.43-1
 kmod-nf-flow - 5.10.43-1
@@ -29,9 +32,12 @@ kmod-nf-ipt6 - 5.10.43-1
 kmod-nf-nat - 5.10.43-1
 kmod-nf-reject - 5.10.43-1
 kmod-nf-reject6 - 5.10.43-1
+kmod-of-mdio - 5.10.43-1
+kmod-phy-realtek - 5.10.43-1
 kmod-ppp - 5.10.43-1
 kmod-pppoe - 5.10.43-1
 kmod-pppox - 5.10.43-1
+kmod-r8169 - 5.10.43-1
 kmod-slhc - 5.10.43-1
 libblkid1 - 2.36.1-2
 libblobmsg-json20210516 - 2021-05-16-b14c4688-2
@@ -92,6 +98,7 @@ partx-utils - 2.36.1-2
 ppp - 2.4.9.git-2021-01-04-3
 ppp-mod-pppoe - 2.4.9.git-2021-01-04-3
 procd - 2021-05-05-021ece84-2
+r8169-firmware - 20210511-1
 rpcd - 2021-05-05-7a560a1a-1
 rpcd-mod-file - 2021-05-05-7a560a1a-1
 rpcd-mod-iwinfo - 2021-05-05-7a560a1a-1
